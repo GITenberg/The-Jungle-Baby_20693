@@ -1,0 +1,30 @@
+_repo: The-Jungle-Baby_20693
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Farrow, G. E. (George Edward)
+    alias: Farrow, George Edward
+    birthdate: 1862
+    deathdate: 1919
+    gutenberg_agent_id: '7640'
+    url: http://www.gutenberg.org/2009/agents/7640
+description: ''
+gutenberg_bookshelf: Children's Picture Books
+gutenberg_issued: '2007-02-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20693'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Animals -- Juvenile fiction'
+- !lcsh 'British -- India -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'India -- Juvenile fiction'
+title: The Jungle Baby
+url: http://www.gutenberg.org/ebooks/20693
